@@ -8,26 +8,31 @@ arrivi in mensa prima di tutti… e poi ti alzi e vai via.
 
 ## Come si gioca
 
-Apri `index.html` in un browser (desktop o telefono). Nessuna dipendenza.
+Apri `index.html` in un browser (desktop o telefono). Nessuna dipendenza. Si gioca col touch, col mouse o **tutto da tastiera** (i tasti sono scritti sui pulsanti).
 
-- **Postazione** — trascina per guardarti intorno; digita la parola mostrata (o tocca la tastiera) per sembrare occupato.
-  - 🛰 **Controllo**: mappa dell'ufficio, fame dei colleghi, cono visivo di Ubaldo.
-  - 🎮 **Ladder**: mini *BIG COMPANY — Ladder Climbing* sul PC (spazio/tap per saltare le mail di Ubaldo).
-  - Attività: mail, telefono, riunioni Teams, aggiornamenti di Windows, mosche, chat con i colleghi, caffè, pianta da annaffiare, palline di carta.
-- **Corridoio** — alterna SX/DX, schiva Mauro, rallenta sul bagnato.
-- **Mensa** — apre alle 12:30, porzioni limitate.
-- **Uscita** — muoviti solo quando Ubaldo è di spalle, poi passa il badge.
+La giornata:
 
-### Tastiera (PC)
+1. **Mattina alla postazione**: trascina per guardarti intorno, digita le parole del report per sembrare occupato.
+   - 🛰 **Controllo**: mappa dell'ufficio, fame dei colleghi, cono visivo di Ubaldo.
+   - 🎮 **Ladder**: mini *BIG COMPANY — Ladder Climbing* (le monete diventano spiccioli per le macchinette).
+   - Eventi: mail, telefonate e call con Ubaldo (in call lui resta in ufficio e ti chiede di condividere le slide giuste), aggiornamenti di Windows, mosche, canestro col report, chat con i colleghi, caffè, pianta, palline di carta.
+   - Ubaldo gira, parla, ti fissa e a volte passa alla scrivania a farti domande.
+2. **☕ Macchinette**: caffè da erogare al punto giusto, snack incastrati da scuotere, chiacchiere con i colleghi (con soffiate utili)… e Ubaldo che può arrivare.
+3. **Corridoio**: alterna SX/DX, schiva Mauro, rallenta sul bagnato.
+4. **Mensa**: apre alle 12:30, porzioni limitate, a volte Ubaldo si siede al tuo tavolo.
+5. **Pomeriggio**: combatti l'abbiocco, completa gli obiettivi (riunione, caffè, report), sopravvivi alla **riunione-bingo delle 15** sulle buzzword.
+6. **Vai via**: muoviti solo quando Ubaldo è di spalle (o quando è dal Direttore…), poi passa il badge.
 
-| Tasto | Azione |
+### Tastiera
+
+| Dove | Tasti |
 |---|---|
-| Lettere | digita la parola del report |
-| `Tab` | cambia schermo (Report / Controllo / Ladder) |
-| `Esc` | boss key: torna al Report |
-| `Spazio` | salta (Ladder) / cammina (uscita) |
-| `Invio` | alzati |
-| `←` `→` | guardati intorno |
-| `R` `T` `U` `Y` `N` `C` | rispondi a mail, telefono, update, riunioni, chat |
+| Ovunque | `Invio`/`Spazio` conferma · `1`-`9` scelte nei dialoghi |
+| Postazione | lettere = digita · `Tab` cambia schermo · `Esc` boss key · `Spazio` salta (Ladder) · `1` macchinette · `2` tempo veloce · `Invio` alzati · `←` `→` guarda · `R` `T` `U` `Y` `N` `C` `B` eventi |
+| Macchinette | `1` caffè · `2` snack · `3` chiacchiera · `Invio` torna · `Spazio` eroga/scuoti · `1`-`6` snack |
+| Corridoio | `←` `→` (o `A` `D`) passi e schivate |
+| Mensa | `1`-`3` scegli piatto · `1`-`4`/`Spazio` mangia · `Invio` torna |
+| Riunione | `1`-`9` segna la parola · `A`/`Spazio` annuisci |
+| Uscita | tieni `Spazio` per camminare · `Spazio` per il badge |
 
 Musica ed effetti sono sintetizzati con WebAudio.
